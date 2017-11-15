@@ -1,0 +1,3 @@
+interior
+no banner
+banner
